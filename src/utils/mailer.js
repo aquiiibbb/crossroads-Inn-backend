@@ -6,7 +6,7 @@ const nodemailer = require("nodemailer");
 
 const HOTEL = {
   name: "Crossroads Inn",
-  tagline: "Your Home Away From Home",
+  tagline: "7050 Okeechobee Rd, Fort Pierce, FL 34945, USA",
   address: "7050 Okeechobee Rd, Fort Pierce, FL 34945, USA",
   phone: "+1 (772) 465-8600",
   email: "crossroadsinnflorida@gmail.com",
