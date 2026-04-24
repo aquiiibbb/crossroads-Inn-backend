@@ -17,7 +17,7 @@ app.use(
       if (!origin) return callback(null, true);
 
       const allowedOrigins = [
-        "http://localhost:3000",
+        "https://crossroads-inn.vercel.app",
         process.env.FRONTEND_URL,
       ].filter(Boolean);
 
